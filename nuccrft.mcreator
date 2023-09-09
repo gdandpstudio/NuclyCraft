@@ -1,0 +1,131 @@
+{
+  "mod_elements": [
+    {
+      "name": "Radiationpart",
+      "type": "particle",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiationpart"
+    },
+    {
+      "name": "Radiation",
+      "type": "potioneffect",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiation"
+    },
+    {
+      "name": "Radiationresistance",
+      "type": "enchantment",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiationresistance"
+    },
+    {
+      "name": "Costumepart",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "costumepart"
+    },
+    {
+      "name": "Radiateddirt",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiateddirt"
+    },
+    {
+      "name": "Rediatedrock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rediatedrock"
+    },
+    {
+      "name": "Partactgui",
+      "type": "gui",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "partactgui"
+    },
+    {
+      "name": "Partactivator",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "partactivator"
+    },
+    {
+      "name": "Uranium",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uranium"
+    },
+    {
+      "name": "PartactguiWhileThisGUIIsOpenTick",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "partactgui_while_this_gui_is_open_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.nuccrft.radiateddirt": "Radiated dirt",
+      "item.nuccrft.partactivator": "Upgrades activator",
+      "effect.radiation": "radiation",
+      "item.nuccrft.costumepart": "Radiation upgrade",
+      "item.nuccrft.uranium": "Uranium",
+      "enchantment.nuccrft.radiationresistance": "Radiation Resistance",
+      "block.nuccrft.rediatedrock": "Rediated rock"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nuccrft",
+    "modName": "NuclyCraft",
+    "version": "1.0.0",
+    "author": "Snus1k_2009, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.nuccrft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

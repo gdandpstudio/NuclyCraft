@@ -1,0 +1,51 @@
+{
+  "_fv": 34,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "uranium",
+    "customModelName": "Normal",
+    "name": "Uranium",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Uranium (92)",
+      "Atomic mass: 238",
+      "02891 (3)",
+      "Electron configuration:1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 4f14 5s2 5p6 5d10 5f3 6s2 6p6 6d1 7s2",
+      "Electron core: K2 L8 M18 N32 O21 P9 Q2 R0",
+      "92 electrons",
+      "92 protons",
+      "146 neutrons"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "none"
+  }
+}

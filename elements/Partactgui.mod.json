@@ -1,0 +1,292 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 265,
+    "height": 203,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 19,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 96,
+          "y": 35
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 96,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 96,
+          "y": 71
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 96,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 114,
+          "y": 35
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #5",
+          "x": 114,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 6,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #6",
+          "x": 96,
+          "y": 107
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 7,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #7",
+          "x": 114,
+          "y": 71
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 8,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #8",
+          "x": 114,
+          "y": 89
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 9,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #9",
+          "x": 114,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "1: <ENBT:text:ug1>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "1: <ENBT:text:ug1>",
+          "x": 141,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "2: <ENBT:text:ug2>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "2: <ENBT:text:ug2>",
+          "x": 141,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "3: <ENBT:text:ug3>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "3: <ENBT:text:ug3>",
+          "x": 141,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "4: <ENBT:text:ug4>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "4: <ENBT:text:ug4>",
+          "x": 141,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "5: <ENBT:text:ug5>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "5: <ENBT:text:ug5>",
+          "x": 141,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "6: <ENBT:text:ug6>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "6: <ENBT:text:ug6>",
+          "x": 240,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "7: <ENBT:text:ug7>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "7: <ENBT:text:ug7>",
+          "x": 240,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "8: <ENBT:text:ug8>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "8: <ENBT:text:ug8>",
+          "x": 240,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "9: <ENBT:text:ug9>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "9: <ENBT:text:ug9>",
+          "x": 240,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "10: <ENBT:text:ug10>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "10: <ENBT:text:ug10>",
+          "x": 240,
+          "y": 107
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}
